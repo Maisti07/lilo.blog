@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/pfp-for-journalism.png"
+logo = "/media/pfp-for-journalism.png"
+image = "/media/pfp-for-journalism.png"
 color = "#5a4ae3"
 +++
