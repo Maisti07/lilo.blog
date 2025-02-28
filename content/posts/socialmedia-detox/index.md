@@ -3,6 +3,7 @@ title = "Social Media Detox"
 date = "2025-02-28"
 draft = false
 pinned = false
+tags = ["InterviewDetox", "EsraBlaser", "Journalismusprojekt"]
 image = "kenny-eliason-z3kbg5xihjo-unsplash.jpg"
 +++
 # Selbstwarnehmung mit Social Media Detox
