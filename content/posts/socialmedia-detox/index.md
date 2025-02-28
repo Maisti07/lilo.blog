@@ -1,5 +1,5 @@
 +++
-title = "SocialMedia Detox"
+title = "Social Media Detox"
 date = "2025-02-28"
 draft = false
 pinned = false
