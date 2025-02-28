@@ -18,4 +18,8 @@ Dieser junge Mann heisst Esra Blaser. Er ist 18 Jahre alt und ist in der Ausbild
 
 
 
+"Ich würde sagen, unmöglich gibt es nicht"
+
+
+
 > * > ![](img_1261.png "Esra Blaser")
