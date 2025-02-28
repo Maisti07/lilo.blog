@@ -36,7 +36,7 @@ Ja, er hat erkannt, wie sehr er sich durch digitale Ablenkungen von sich selbst 
 
 Ja. Er hat sich klare Zeitlimits gesetzt, um nicht wieder in alte Muster zu verfallen. Früher war sein Selbstbild stark davon geprägt, wie er online wahrgenommen wurde. Jetzt legt er mehr Wert darauf, wie er sich offline fühlt. Social Media ist für ihn kein zentraler Bestandteil mehr, sondern ein Werkzeug, das er gezielt und kontrolliert einsetzt.
 
-> "Ich würde sagen, unmöglich gibt es nicht"
+> "Ein Social Media Detox ist keine radikale Umstellung, sodern ein Prozess."
 
 **Welche Tipps würde er jemandem geben, der ebenfalls einen Digital Detox ausprobieren möchte?**
 
