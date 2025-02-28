@@ -1,7 +1,7 @@
 +++
 title = "SocialMedia Detox"
 date = "2025-02-28"
-draft = true
+draft = false
 pinned = false
 image = "kenny-eliason-z3kbg5xihjo-unsplash.jpg"
 +++
