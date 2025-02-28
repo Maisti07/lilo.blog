@@ -46,6 +46,12 @@ Er empfiehlt, klein anzufangen, beispielsweise mit einem Social-Media-freien Woc
 
 Viele merken erst nach einer Pause, wie sehr Social Media ihr Selbstbild und Leben beeinflusst. Er würde jedem raten, es selbst auszuprobieren. Ein Detox kann helfen, herauszufinden, welche digitalen Gewohnheiten wirklich notwendig sind und welche nur aus Gewohnheit bestehen.
 
+{{<box>}}
+
+
+
+{{</box>}}
+
 **Fühlt er sich generell glücklicher ohne Social Media oder war es mit Social Media vielleicht gleich oder sogar besser?**
 
 Er fühlt sich freier in seinem Denken. Ohne Social Media hat er weniger den Druck, sich zu präsentieren oder Erwartungen zu erfüllen. Er konzentriert sich mehr auf seine eigenen Werte und Interessen. Vor allem hat er gelernt, dass viele Online-Darstellungen nur eine verzerrte Realität sind und er sich davon nicht beeinflussen lassen muss.
