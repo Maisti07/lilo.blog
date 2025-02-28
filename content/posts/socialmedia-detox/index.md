@@ -12,9 +12,7 @@ image = "kenny-eliason-z3kbg5xihjo-unsplash.jpg"
 Dieses Interview beschreibt die Erfahrungen eines jungen Mannes, der bewusst einen Digital Detox durchgeführt hat. Es geht um seine Beweggründe, die Herausforderungen während dieser Zeit und die Veränderungen, die er dadurch in seinem Alltag und seiner Selbstwahrnehmung erfahren hat. Besonders betont wird, wie sich sein Selbstbild ohne den ständigen Einfluss von Social Media entwickelt hat und welche positiven Auswirkungen die digitale Abstinenz auf seine Identität hatte. 
 {{</lead>}}
 
-Es war ein sonniger Samstagnachmittag, mit klarem Himmel und einem schönen Ausblick auf das angrenzende Feld des benachbarten Bauern. Wir sassen bei mir im Vorgarten, umgeben von Rasen, der am Rand des Grundstücks durch Gebüsche und einen Nadelbaum von einem Feldweg getrennt wurde. Drei Raubvögel kreisten über dem dahinterligenden Feld und warteten auf ihre Beute. Wir sassen an einem braun-schwarzen Aussentisch aus Metall. Die frische Brise schweifte uns nur leicht, deshalb spürte man kaum etwas. Meine Katze lag gegenüber von uns auf einem Kasten und schaute entspannt dem glasklaren Himmel entgegen. Das Rascheln der Blätter und Gebüsche wirkte beruhigend und das Schnurren der Katze trug ebenfalls zur entspannten Athmosphäre bei.Es war ein sonniger Samstagnachmittag, mit klarem Himmel und einem schönen Ausblick auf das angrenzende Feld des benachbarten Bauern. Wir sassen bei mir im Vorgarten, umgeben von Rasen, der am Rand des Grundstücks durch Gebüsche und einen Nadelbaum von einem Feldweg getrennt wurde. Drei Raubvögel kreisten über dem dahinterligenden Feld und warteten auf ihre Beute. Wir sassen an einem braun-schwarzen Aussentisch aus Metall. Die frische Brise schweifte uns nur leicht, deshalb spürte man kaum etwas. Meine Katze lag gegenüber von uns auf einem Kasten und schaute entspannt dem glasklaren Himmel entgegen. Das Rascheln der Blätter und Gebüsche wirkte beruhigend und das Schnurren der Katze trug ebenfalls zur entspannten Athmosphäre bei.
-
-> "Ich würde sagen, unmöglich gibt es nicht"
+Es war ein sonniger Samstagnachmittag, mit klarem Himmel und einem schönen Ausblick auf das angrenzende Feld des benachbarten Bauern. Wir sassen bei mir im Vorgarten, umgeben von Rasen, der am Rand des Grundstücks durch Gebüsche und einen Nadelbaum von einem Feldweg getrennt wurde.
 
 ### Spannende Interviewausschnitte
 
@@ -37,6 +35,8 @@ Ja, er hat erkannt, wie sehr er sich durch digitale Ablenkungen von sich selbst 
 **Hat er nach dem Detox seine Social-Media-Nutzung verändert?**
 
 Ja. Er hat sich klare Zeitlimits gesetzt, um nicht wieder in alte Muster zu verfallen. Früher war sein Selbstbild stark davon geprägt, wie er online wahrgenommen wurde. Jetzt legt er mehr Wert darauf, wie er sich offline fühlt. Social Media ist für ihn kein zentraler Bestandteil mehr, sondern ein Werkzeug, das er gezielt und kontrolliert einsetzt.
+
+> "Ich würde sagen, unmöglich gibt es nicht"
 
 **Welche Tipps würde er jemandem geben, der ebenfalls einen Digital Detox ausprobieren möchte?**
 
