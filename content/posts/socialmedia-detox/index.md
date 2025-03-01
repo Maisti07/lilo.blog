@@ -48,7 +48,7 @@ Viele merken erst nach einer Pause, wie sehr Social Media ihr Selbstbild und Leb
 
 {{<box>}}
 
-
+Dieser junge Mann heisst Esra Blaser. Er ist 18 Jahre alt und ist in der Ausbildung zum Applikationsentwickler. Sein Wohnort ist Rüdtlingen-Kirchberg, er wohnt dort vis-à-vis von Aefligen. Sein Interesse gilt der Astrologie und der Informatik, insbesondere der KI. Er hat einen Social-Media-Detox durchgeführt und berichtet von seinen Erfahrungen in dieser Zeit.
 
 {{</box>}}
 
@@ -60,4 +60,4 @@ Er fühlt sich freier in seinem Denken. Ohne Social Media hat er weniger den Dru
 
 Ja. Früher definierte er sich stark über Likes, Kommentare und das Feedback anderer. Ohne diese Bestätigung konnte er sich ein unabhängigeres Selbstbild aufbauen. Ihm wurde klar, dass er mehr ist als sein digitales Ich und dass seine Identität nicht von der Reaktion anderer abhängt, sondern von seiner eigenen Zufriedenheit.
 
-![Dieser junge Mann heisst Esra Blaser. Er ist 18 Jahre alt und ist in der Ausbildung zum Applikationsentwickler. Sein Wohnort ist Rüdtlingen-Kirchberg, er wohnt dort vis-à-vis von Aefligen. Sein Interesse gilt der Astrologie und der Informatik, insbesondere der KI. Er hat einen Social-Media-Detox durchgeführt und berichtet von seinen Erfahrungen in dieser Zeit.](img_1336.jpeg)
+![](img_1336.jpeg)
